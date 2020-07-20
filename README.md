@@ -3,3 +3,8 @@
 # expo install
 
    $ expo install expo-camera
+   
+   
+   
+   
+   
